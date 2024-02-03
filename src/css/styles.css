@@ -149,6 +149,7 @@ body{
 	justify-content: center;
 }
 
+
 .compre-ja .btn-plataforma .plataformas {
 	margin-top: 10px;
 	display: flex;
@@ -204,3 +205,34 @@ body{
 .compre-ja .btn-plataforma .plataformas li:nth-child(5):hover {
 	background-color: #fcaf17;
 }
+
+Protocolo: @media only screen and (max-width: 600px) {
+    .cabecalho {
+        padding: 0 10px; /* Reduzido ainda mais o padding para dispositivos muito estreitos */
+    }
+
+    .cabecalho .logo img {
+        max-width: 50px; /* Reduzido o tamanho do logo para dispositivos menores */
+    }
+
+    .cabecalho .menu li a {
+        padding: 5px; /* Reduzido ainda mais o padding para dispositivos menores */
+        font-size: 10px; /* Reduzido ainda mais o tamanho da fonte para dispositivos menores */
+    }
+
+    .home .informacoes {
+        padding: 10px;
+    }
+
+    .compre-ja {
+        padding: 10px;
+    }
+}
+
+/* Media queries para dispositivos de largura máxima de 768px (tablets e iPads) */
+@media only screen and (max-width: 768px) {
+    .cabecalho {
+        padding: 0 15px; /* Ajustado o padding para dispositivos intermediários */
+    }
+}. 
+//Depois serão adicionados media queries
