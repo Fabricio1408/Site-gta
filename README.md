@@ -1,6 +1,6 @@
 ![img](/src/imagens/preview3.jpeg)
 # 🎮 Semana do Zero ao Programador Contratado - Landing Page GTA.
-Projeto realizado pelos irmãos gêmeos Roberto e Ricardo, do canal "Dev em Dobro", com o objetivo de replicar o site do GTA V. O projeto utiliza as tecnologias mais básicas do desenvolvimento web, como HTML, CSS e JavaScript. Não pude acompanhar as transmissões ao vivo no horário oficial, nos dias 23, 25 e 27 (HTML, CSS e JS) devido a compromissos, mas os professores disponibilizaram as gravações no YouTube, permitindo-me acompanhá-las em outro momento. A didática dos professores foi bastante interessante, e foi muito gratificante participar deste evento.
+Projeto realizado pelos irmãos gêmeos Roberto e Ricardo, do canal "Dev em Dobro", com o objetivo de clonar o site do GTA V. O projeto utiliza as tecnologias mais básicas do desenvolvimento web, como HTML, CSS e JavaScript. Não pude acompanhar as transmissões ao vivo no horário oficial, nos dias 23, 25 e 27 (HTML, CSS e JS) devido a compromissos, mas os professores disponibilizaram as gravações no YouTube, permitindo-me acompanhá-las em outro momento. A didática dos professores foi bastante interessante, e foi muito gratificante participar deste evento.
 
 
 # 💻 Tecnologias:
